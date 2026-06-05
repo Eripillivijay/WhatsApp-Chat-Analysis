@@ -1,0 +1,9 @@
+ipykernel
+scikit-learn
+streamlit
+matplotlib
+seaborn
+urlextract
+wordcloud
+pandas
+emoji
